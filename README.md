@@ -1,51 +1,90 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Vitor;I'm+18+years+old;I+from+Brasil,+PE;I+study+systems+development;Be+Welcome!+:%29)](https://git.io/typing-svg)
-
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=VitorProgram&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorProgram&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
-</div>
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=VitorProgram&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+	<img src="pics/header.png">
 </p>
 
-<div align="center">  
-  <a href="https://www.instagram.com/vitor_program/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-</div>
-  
----
+<p align="center">
+	<a href="https://www.linkedin.com/in/vitorprogram/">
+		<img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=white" />
+	</a>
+	<a href="mailto:joaovitornascimentoif.com">
+		<img src="https://img.shields.io/badge/Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=white" />
+	</a>
+	<a href="https://vitorprogram.dev">
+		<img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=About.me&logoColor=white" />
+	</a>
+	<a href="https://twitter.com/vitorprogram">
+		<img src="https://img.shields.io/badge/Twitter-0A0A0A?style=for-the-badge&logo=x&logoColor=white" />
+	</a>
+</p>
 
-### 🚀 Main Skills:
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117)&nbsp;
-![React](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![Next.js](https://img.shields.io/badge/-Next.js-0D1117?style=for-the-badge&logo=next.js&labelColor=0D1117)&nbsp;
-![React Native](https://img.shields.io/badge/-React%20Native-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117)&nbsp;
-![Prisma](https://img.shields.io/badge/-Prisma-0D1117?style=for-the-badge&logo=prisma&labelColor=0D1117)&nbsp;
+<br />
 
----
+## Sobre Mim
 
-### 🧰 Tools:
-![VS Code](https://img.shields.io/badge/-VS%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
-![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-![Figma](https://img.shields.io/badge/-Figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
+<p>👋 Sou desenvolvedor de software focado em desenvolvimento front-end, com experiência prática na construção de aplicações utilizando JavaScript, TypeScript e o ecossistema moderno de front-end e back-end. Tenho forte atenção à qualidade de código, organização de projetos e boas práticas como modularização, tipagem consistente e estrutura escalável.</p>
 
----
+<br />
 
-### 📚 Currently Studying:
-![React Native](https://img.shields.io/badge/-React%20Native-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117)&nbsp;
-![Figma](https://img.shields.io/badge/-Figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
 
-<!-- <div align="center">
-  <br>
-  <p align="centre"><b>Visitors Count</b></p>  
-  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{VitorProgram}/count.svg" /></p>
-  <br> 
-</div> -->
+## Tecnologias
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+### 💻 &nbsp;Linguagens
+
+![TypeScript](https://img.shields.io/badge/-TypeScript-0A0A0A?style=flat&logo=typescript)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-0A0A0A?style=flat&logo=javascript)&nbsp;
+![SQL](https://img.shields.io/badge/-SQL-0A0A0A?style=flat&logo=postgresql)&nbsp;
+
+### 🎨 &nbsp;Frontend
+
+![React](https://img.shields.io/badge/-React-0A0A0A?style=flat&logo=react)&nbsp;
+![Next.js](https://img.shields.io/badge/-Next.js-0A0A0A?style=flat&logo=next.js)&nbsp;
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-0A0A0A?style=flat&logo=tailwind-css)&nbsp;
+![Framer Motion](https://img.shields.io/badge/-Framer%20Motion-0A0A0A?style=flat&logo=framer)&nbsp;
+![shadcn/ui](https://img.shields.io/badge/-shadcn%2Fui-0A0A0A?style=flat&logo=shadcnui)&nbsp;
+
+### 🔧 &nbsp;Backend & Banco de Dados
+
+![Node.js](https://img.shields.io/badge/-Node.js-0A0A0A?style=flat&logo=node.js)&nbsp;
+![Express](https://img.shields.io/badge/-Express-0A0A0A?style=flat&logo=express)&nbsp;
+![Prisma](https://img.shields.io/badge/-Prisma-0A0A0A?style=flat&logo=prisma)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0A0A0A?style=flat&logo=postgresql)&nbsp;
+![JWT](https://img.shields.io/badge/-JWT-0A0A0A?style=flat&logo=jsonwebtokens)&nbsp;
+
+### ⚙️ &nbsp;Ferramentas & Workflow
+
+![Git](https://img.shields.io/badge/-Git-0A0A0A?style=flat&logo=git)&nbsp;
+![Linux](https://img.shields.io/badge/-Linux-0A0A0A?style=flat&logo=linux)&nbsp;
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-0A0A0A?style=flat&logo=github-actions)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-0A0A0A?style=flat&logo=docker)&nbsp;
+
+<hr />
+<br />
+
+## Estatísticas no GitHub
+
+<br/>
+<p align="center">
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=VitorProgram&theme=dark&hide_border=true&background=0A0A0A" alt="GitHub Streak" />
+</p>
+
+<hr />
+<br />
+
+## Repositórios em Destaque
+### Prism — Digest de Novidades Tech
+> Agrega release notes de tecnologias populares e entrega digests de e-mail personalizados
+
+- **O que faz**: Monitora React, TypeScript, Next.js, Vue e mais via GitHub Releases API
+- **Stack**: Next.js, Node.js, TypeScript, Prisma, PostgreSQL, JWT Auth
+- **Destaques**: Sistema de assinantes, digests personalizados, OAuth (Google & GitHub)
+- [Ver Projeto →](https://github.com/VitorProgram/prism)
+
+### Portfólio
+> Portfólio pessoal com projetos, habilidades e trabalhos freelance
+
+- **Stack**: Next.js, TypeScript, Tailwind CSS, Framer Motion
+- **Destaques**: Design responsivo, animações fluidas, performance otimizada
+- [Ver Projeto →](https://github.com/VitorProgram/portfolio)
+
+<hr />
+
